@@ -1,0 +1,17 @@
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.csproj.AssemblyReference.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.Form1.resources
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.csproj.GenerateResource.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.AssemblyInfoInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.AssemblyInfo.cs
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.csproj.CoreCompileInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\bin\Debug\net6.0-windows\finalprojecาshopassetsery.exe
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\bin\Debug\net6.0-windows\finalprojecาshopassetsery.deps.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\bin\Debug\net6.0-windows\finalprojecาshopassetsery.runtimeconfig.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\bin\Debug\net6.0-windows\finalprojecาshopassetsery.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\bin\Debug\net6.0-windows\finalprojecาshopassetsery.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\refint\finalprojecาshopassetsery.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\finalprojecาshopassetsery.genruntimeconfig.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\finalproject\finalprojecาshopassetsery\finalprojecาshopassetsery\obj\Debug\net6.0-windows\ref\finalprojecาshopassetsery.dll
